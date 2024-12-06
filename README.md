@@ -15,7 +15,7 @@
   - test.zip - el conjunto de pruebas (7 archivos en total)
   - trainLabels.csv - contiene las etiquetas del conjunto de entrenamiento
 
-**Modelos:** Convolutional Neuronal Networks, Transfer Learning, EfficientNetB0, Preprocessing, Data Augmentation.
+**Modelos:** Convolutional Neuronal Networks (CNN), Transfer Learning, EfficientNetB0, Preprocessing, Data Augmentation, Multiclass classification, Keras, Tensorflow.
 
 **Enlaces de interes:**
   - código: 
