@@ -15,9 +15,9 @@
   - test.zip - el conjunto de pruebas (7 archivos en total)
   - trainLabels.csv - contiene las etiquetas del conjunto de entrenamiento
 
-**Modelos:** Convolutional Neuronal Networks (CNN), Transfer Learning, EfficientNetB0, Preprocessing, Data Augmentation, Multiclass classification, Keras, Tensorflow.
+**Modelos:** Convolutional Neuronal Networks (CNN), Transfer Learning, EfficientNetB7, Preprocessing, Data Augmentation, Multiclass classification, Keras, Tensorflow.
 
-**Enlaces de interes:**
+**Enlaces de interés:**
 - Código: https://www.kaggle.com/code/oscarmauriciocampos/entrega-final
 - Video: 
 - Repositorio:  https://github.com/oskarwest/diabetic_retinopathy
