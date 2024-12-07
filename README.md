@@ -18,7 +18,7 @@
 **Modelos:** Convolutional Neuronal Networks (CNN), Transfer Learning, EfficientNetB0, Preprocessing, Data Augmentation, Multiclass classification, Keras, Tensorflow.
 
 **Enlaces de interes:**
-Código: 
-Video: 
-Repositorio:  
-Diapositivas:
+- Código: https://www.kaggle.com/code/oscarmauriciocampos/entrega-final
+- Video: 
+- Repositorio:  https://github.com/oskarwest/diabetic_retinopathy
+- Diapositivas: https://docs.google.com/presentation/d/e/2PACX-1vQGzs8Oa0NDjGd9PcrRvQUNsRbzmqZfUriWh2RKQkjGK01yYPHdHTUwmEvVVZrsHg/pub?start=false&loop=false&delayms=3000
