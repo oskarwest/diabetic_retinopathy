@@ -19,6 +19,7 @@
 
 **Enlaces de interés:**
 - Código: https://www.kaggle.com/code/oscarmauriciocampos/entrega-final
+          https://colab.research.google.com/drive/120WonQYqe7bqAJeVLlgDejZ0mDNQfwMY?usp=sharing
 - Video: https://youtu.be/5zd7pN951rE
 - Repositorio:  https://github.com/oskarwest/diabetic_retinopathy
 - Diapositivas: https://docs.google.com/presentation/d/e/2PACX-1vQGzs8Oa0NDjGd9PcrRvQUNsRbzmqZfUriWh2RKQkjGK01yYPHdHTUwmEvVVZrsHg/pub?start=false&loop=false&delayms=3000
